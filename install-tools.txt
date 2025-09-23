@@ -1,0 +1,14 @@
+net-tools
+python3
+pip
+pipx
+nxc
+msfconsole
+insightvm
+nuclei
+httpx
+nmap
+smbclient
+responder
+bloodhound
+impacket

@@ -12,4 +12,6 @@ smbclient
 responder
 bloodhound
 impacket
+kerbrute
+terrapin scanner
 wordlist
